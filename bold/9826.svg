@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" focusable="false" viewBox="0 -666 500 666"
+    xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: 0px;">
+    <defs>
+        <path id="MJX-2-TEX-N-9826" d="M409 686Q410 688 412 691T415 696T418 701T421 706T424 709T427 713T431 715T435 717T440 718T446 719Q455 719 460 717T472 704T488 679T516 633T563 567Q624 485 687 422T787 330T826 296T828 282Q828 270 825 265T801 245Q696 161 612 59T477 -133Q465 -154 447 -154Q439 -154 434 -152T425 -146T414 -130T399 -104T372 -62T330 -3Q270 78 207 142T107 234T70 265Q64 274 64 282Q64 296 90 317Q284 472 409 686ZM749 282Q745 286 721 307T681 343T635 388T581 446T525 516T465 601Q462 606 457 613T450 624L447 627V628Q446 628 436 611T402 561T348 489T266 396T155 292L145 282Q147 280 185 245T257 177T343 79T442 -57Q446 -64 447 -64V-63Q450 -59 475 -22T530 56T619 160T749 282"></path>
+    </defs>
+    <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+            <g data-mml-node="mn">
+                <use data-c="9826" xlink:href="#MJX-2-TEX-N-9826"></use>
+            </g>
+        </g>
+    </g>
+</svg>

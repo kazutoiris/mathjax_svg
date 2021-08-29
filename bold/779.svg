@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" role="img" focusable="false" viewBox="0 -666 500 666"
+    xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true" style="vertical-align: 0px;">
+    <defs>
+        <path id="MJX-2-TEX-N-779" d="M-389 511L-442 543Q-442 544 -424 606T-404 674Q-390 705 -361 713Q-360 713 -356 713T-349 714Q-340 714 -330 712Q-273 690 -273 644Q-273 621 -290 604L-342 554L-389 511ZM-198 511L-251 543Q-251 544 -233 606T-213 674Q-199 705 -170 713Q-169 713 -165 713T-158 714Q-127 714 -105 693T-82 647Q-82 638 -84 631T-89 618T-99 604T-112 590T-130 574T-151 554L-198 511"></path>
+    </defs>
+    <g stroke="currentColor" fill="currentColor" stroke-width="0" transform="scale(1,-1)">
+        <g data-mml-node="math">
+            <g data-mml-node="mn">
+                <use data-c="779" xlink:href="#MJX-2-TEX-N-779"></use>
+            </g>
+        </g>
+    </g>
+</svg>
